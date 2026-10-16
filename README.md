@@ -92,6 +92,6 @@ This dashboard supports data-driven decision-making in garment manufacturing by 
 
 
 
-**Conclusion**
+### **Conclusion**
 
 The project demonstrates the use of Power BI for transforming production data into meaningful visual insights. It combines data preparation, data modeling, DAX calculations, and interactive reporting to support manufacturing performance analysis.
