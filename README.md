@@ -24,7 +24,8 @@ The dashboard compares actual productivity against targeted productivity and exp
 
 **Dataset**
 
-https://archive.ics.uci.edu/dataset/597/productivity+prediction+of+garment+employees	
+https://archive.ics.uci.edu/dataset/597/productivity+prediction+of+garment+employees
+
 The dataset contains garment production records with fields such as:
 •	Date and Quarter
 •	Department and Team
