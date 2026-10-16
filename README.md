@@ -6,7 +6,7 @@ Project Overview
 This project analyses garment manufacturing production data using Microsoft Power BI to evaluate productivity, workforce efficiency, and production performance across departments and teams.
 The dashboard compares actual productivity against targeted productivity and explores how overtime, work-in-progress (WIP), incentives, idle time, workforce size, and style changes relate to production performance.
 
-#**Objectives**
+###**Objectives**
 
 •	Compare actual productivity with targeted productivity.
 •	Identify departments and teams performing above or below their targets.
