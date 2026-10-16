@@ -56,7 +56,7 @@ The dataset contains garment production records with fields such as:
 •	Total Work in Progress by Department
 •	Idle Time & Idle Men by Department
 
-3. ** Team Analysis**
+3.  **Team Analysis**
 
 •	Team Wise Productivity Comparison
 •	Over Time by Department
@@ -64,12 +64,14 @@ The dataset contains garment production records with fields such as:
 •	Idle Time & Idle Men by Team
 
 4. **Productivity Trends and Improvement**
+   
 •	Quarterly Productivity Trend
 •	WIP vs. Productivity
 •	Incentive by Team
 •	Style Changes vs. Productivity
 
 **Interactive Features**
+
 •	Date, Department, and Team slicers
 •	Cross-filtering between charts
 •	Drill-through pages for detailed analysis
@@ -77,7 +79,9 @@ The dataset contains garment production records with fields such as:
 •	Comparative charts for actual and target performance
 
 **Business Value**
+
 This dashboard supports data-driven decision-making in garment manufacturing by helping users identify productivity gaps, investigate operational inefficiencies, compare team performance, and monitor production trends.
 
 **Conclusion**
+
 The project demonstrates the use of Power BI for transforming production data into meaningful visual insights. It combines data preparation, data modeling, DAX calculations, and interactive reporting to support manufacturing performance analysis.
