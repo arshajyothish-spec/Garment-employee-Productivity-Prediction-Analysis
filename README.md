@@ -22,6 +22,8 @@ The dashboard compares actual productivity against targeted productivity and exp
 •	DAX — Calculated measures and productivity indicators
 •	Data modeling — Fact and dimension tables, relationships, and drill-through analysis
 
+
+
 **Dataset**
 
 https://archive.ics.uci.edu/dataset/597/productivity+prediction+of+garment+employees
@@ -38,6 +40,8 @@ The dataset contains garment production records with fields such as:
 •	Idle Time and Idle Men
 •	Number of Style Changes
 •	Number of Workers
+
+
 
 **Dashboard Pages**
 
@@ -70,6 +74,8 @@ The dataset contains garment production records with fields such as:
 •	Incentive by Team
 •	Style Changes vs. Productivity
 
+
+
 **Interactive Features**
 
 •	Date, Department, and Team slicers
@@ -78,9 +84,13 @@ The dataset contains garment production records with fields such as:
 •	KPI indicators for productivity monitoring
 •	Comparative charts for actual and target performance
 
+
+
 **Business Value**
 
 This dashboard supports data-driven decision-making in garment manufacturing by helping users identify productivity gaps, investigate operational inefficiencies, compare team performance, and monitor production trends.
+
+
 
 **Conclusion**
 
