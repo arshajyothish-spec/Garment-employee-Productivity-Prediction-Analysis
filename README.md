@@ -1,6 +1,6 @@
 Garment Employee Productivity Analysis Overview
 
-**Productivity Predition of Garment Employees Analysis Dashboard**
+## **Productivity Predition of Garment Employees Analysis Dashboard**
 
 Project Overview
 This project analyses garment manufacturing production data using Microsoft Power BI to evaluate productivity, workforce efficiency, and production performance across departments and teams.
@@ -15,7 +15,7 @@ The dashboard compares actual productivity against targeted productivity and exp
 •	Examine relationships between SMV, WIP, incentives, and productivity.
 •	Monitor productivity trends over time.
 
-**Tools and Technologies**
+### **Tools and Technologies**
 
 •	Microsoft Power BI — Interactive dashboards and visualizations
 •	Power Query — Data cleaning and transformation
@@ -24,7 +24,7 @@ The dashboard compares actual productivity against targeted productivity and exp
 
 
 
-**Dataset**
+### **Dataset**
 
 https://archive.ics.uci.edu/dataset/597/productivity+prediction+of+garment+employees
 
@@ -43,7 +43,7 @@ The dataset contains garment production records with fields such as:
 
 
 
-**Dashboard Pages**
+### **Dashboard Pages**
 
 1.**Production Overview**
    
@@ -76,7 +76,7 @@ The dataset contains garment production records with fields such as:
 
 
 
-**Interactive Features**
+### **Interactive Features**
 
 •	Date, Department, and Team slicers
 •	Cross-filtering between charts
@@ -86,7 +86,7 @@ The dataset contains garment production records with fields such as:
 
 
 
-**Business Value**
+### **Business Value**
 
 This dashboard supports data-driven decision-making in garment manufacturing by helping users identify productivity gaps, investigate operational inefficiencies, compare team performance, and monitor production trends.
 
