@@ -39,7 +39,6 @@ The dataset contains garment production records with fields such as:
 •	Number of Style Changes
 •	Number of Workers
 
-
 **Dashboard Pages**
 
 1. **Production Overview**
