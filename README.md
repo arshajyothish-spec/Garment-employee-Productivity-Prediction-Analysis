@@ -8,7 +8,7 @@ The dashboard compares actual productivity against targeted productivity and exp
 
 ### **Objectives**
 
-•	Compare actual productivity with targeted productivity.
+-	Compare actual productivity with targeted productivity.
 •	Identify departments and teams performing above or below their targets.
 •	Analyse overtime and idle time across teams.
 •	Understand workforce distribution and efficiency.
