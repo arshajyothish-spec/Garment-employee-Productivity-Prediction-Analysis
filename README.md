@@ -56,7 +56,8 @@ The dataset contains garment production records with fields such as:
 •	Total Work in Progress by Department
 •	Idle Time & Idle Men by Department
 
-3.** Team Analysis**
+3. ** Team Analysis**
+
 •	Team Wise Productivity Comparison
 •	Over Time by Department
 •	Total Work in Progress by Team
