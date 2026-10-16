@@ -76,7 +76,6 @@ The dataset contains garment production records with fields such as:
 
 
 
-
 **Interactive Features**
 
 •	Date, Department, and Team slicers
