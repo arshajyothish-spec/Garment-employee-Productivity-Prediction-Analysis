@@ -47,32 +47,32 @@ The dataset contains garment production records with fields such as:
 
 1. **Production Overview**
    
-•	Actual vs. Target Productivity KPI &Gauge Chart
-•	Total No of Records, Department, Teams, Workers and Target Achieved Records
-•	Productivity Trend Over Time.
-•	Actual Productivity VS Targeted Productivity Over Time
-•	Productivity Status among Records
+ •	Actual vs. Target Productivity KPI &Gauge Chart
+ •	Total No of Records, Department, Teams, Workers and Target Achieved Records
+ •	Productivity Trend Over Time.
+ •	Actual Productivity VS Targeted Productivity Over Time
+ •	Productivity Status among Records
 
 2. **Department Analysis**
 
-•	Department Wise Productivity Comparison
-•	Over Time by Department
-•	Total Work in Progress by Department
-•	Idle Time & Idle Men by Department
+ •	Department Wise Productivity Comparison
+ •	Over Time by Department
+ •	Total Work in Progress by Department
+ •	Idle Time & Idle Men by Department
 
 3.  **Team Analysis**
 
-•	Team Wise Productivity Comparison
-•	Over Time by Department
-•	Total Work in Progress by Team
-•	Idle Time & Idle Men by Team
+ •	Team Wise Productivity Comparison
+ •	Over Time by Department
+ •	Total Work in Progress by Team
+ •	Idle Time & Idle Men by Team
 
 4. **Productivity Trends and Improvement**
    
-•	Quarterly Productivity Trend
-•	WIP vs. Productivity
-•	Incentive by Team
-•	Style Changes vs. Productivity
+ •	Quarterly Productivity Trend
+ •	WIP vs. Productivity
+ •	Incentive by Team
+ •	Style Changes vs. Productivity
 
 
 
